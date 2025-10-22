@@ -13,7 +13,7 @@ A simple command-line To-Do List Manager built in C++ using Code::Blocks. This p
 ## 📸 Screenshots
 
 ### 🧭 Main Menu
-![Main Menu](assets/Screenshot%202025-10-22%20224545.png.png)
+![Main Menu](assets/main_menu.png)
 
 ### ✅ Task Added
 ![Task Added](assets/Screenshot%202025-10-22%20224706.png.png)
